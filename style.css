@@ -2,18 +2,18 @@ body{
 background-color: peachpuff;
 text-align: left;
 background-color: darkred;
-  }
+    }
 #div1{
 
 background-color: aqua;
 font-weight: 900;
-font-family: cursive;
+font-family: fantasy;
 font-style: oblique;
 font-size: medium;
 }
 h1{
 
- font-family: 'font-family: 'Pacifico', cursive;
+ font-family: 'Big Shoulders Stencil Display', cursive;
 font: optional;
 font-size: larger;
 font-style: oblique;
